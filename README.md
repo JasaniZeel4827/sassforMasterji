@@ -141,8 +141,8 @@ masterji-stream/
 
 <!-- Add your screenshots here -->
 <div align="center">
-  <img src="public/screenshots/dashboard.png" alt="Dashboard" width="45%" />
-  <img src="public/screenshots/meeting.png" alt="Meeting" width="45%" />
+  <img src="public/images/homepage.png" alt="Dashboard" width="45%" />
+  <img src="public/images/meeting.png" alt="Meeting" width="45%" />
 </div>
 
 ## 🤝 Contributing
